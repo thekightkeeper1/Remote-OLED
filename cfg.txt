@@ -1,0 +1,3 @@
+https://myserver/ota/lastBuild.bin
+2
+
